@@ -1,0 +1,155 @@
+---
+output:
+  html_document:
+    css: [styles.css, font-awesome-4.7.0/css/font-awesome.min.css]
+---
+
+<div class="wrapper">
+<div class="column-left">
+<div class="img-circle-div">
+<img class="img-circle" src="profilovka.png">
+</div>
+Curriculum Vitae
+---------
+Adam Kalina
+---------
+Date of birth:	March 3rd 1989
+
+<i class="fa fa-address-card" aria-hidden="true" fa-3x></i> **Adress**  
+Nad Šárkou 1325/71                        
+Prague 6                                   
+160 00  
+Czech Republic
+
+<i class="fa fa-envelope" aria-hidden="true" fa-3x></i> **Email**  
+adam.kalina89@gmail.com
+
+<i class="fa fa-phone" aria-hidden="true" fa-3x></i> **Phone**  
++420 607 600 285
+
+<i class="fa fa-tag" aria-hidden="true" fa-3x></i> *Main interest**  
+epileptologie  
+epileptochirurgie  
+elektrofyziologie
+
+</div>
+<div class="column-right">
+<i class="fa fa-book" aria-hidden="true"></i> Education
+---------
+
+Highest reached education: Master degree
+
+* **2015 - present:** PhD in neuroscience  
+2nd faculty of medicine, Charles University in Prague 
+Thesis: *Lokalizace funkčních oblastí u epileptochirurgických pacientů*
+
+* **2009 - 2015:** General medicine  
+2nd faculty of medicine, Charles University in Prague 
+
+* **2005 – 2009:** High school - Science 
+Gymnázium, Prague 6, Arabská 14  
+Graduation: Czech language, English, Math, Chemistry, Biology
+
+****************
+
+<i class="fa fa-user-md" aria-hidden="true" fa-3x></i> Work experience
+----------
+
+* **8/2015 - present:**	Resident  
+Department of Neurology, Second Faculty of Medicine, Charles University and Motol University Hospital, Prague	
+
+*******************
+
+<i class="fa fa-university" aria-hidden="true" fa-3x></i> Scientific activity
+----------
+
+* **2012 - present**  
+Department of Neurology, Second Faculty of Medicine, Charles University and Motol University Hospital, Prague
+
+***************
+
+<i class="fa fa-check-square" aria-hidden="true" fa-3x></i> Grant activity
+----------
+* Hlavní řešitel grantu GAUK 488217/2017 *"Porovnání lokalizace zdroje elektrického signálu ze skalpového a intrakraniálního EEG"*
+
+* Spoluřešitel grantu GAČR 17-28427A *"Význam funkční a strukturální reorganizace mozkových sítí v patogenezi kognitivního deficitu a epilepsie po cévní mozkové příhodě."* Hlavní řešitel doc. MUDr. Přemysl Jiruška Ph.D, Fyziologický ústav AV ČR, v.v.i.
+
+* Spoluřešitel grantu GAČR 16-07690S *"Dynamika kognitivních procesů při použití prostorových navigačních referenčních rámců"* Hlavní řešitel Mgr. Kamil Vlček Ph.D, Fyziologický ústav AV ČR, v.v.i.
+
+* Účast na grantu AZV 15-331115A *"Porucha hemato-encefalické bariéry jako časný biomarker postischemické epileptogeneze"* Hlavní řešitel Doc. MUDr. Jakub Otáhal, Ph.D, Fyziologický ústav AV ČR, v.v.i.
+
+* Coworking on grant GAUK 334911/2011 *"Correlation of imaging methods results and functional characteristics of epileptogenic zone in temporal lobe epilepsy"* Contact: MUDr. Lukáš Martinkovič,  Department of Neurology, Second Faculty of Medicine, Charles University and Motol University Hospital, Prague
+
+****************
+
+<i class="fa fa-bookmark" aria-hidden="true" fa-3x></i> Themes
+----------
+* **2017**	Presentation, Motolský epileptochirurgický den, Prague, *Mapování zdroje epileptické aktivity pomocí high-density EEG*
+* **2016**	Poster, 12th European Congress on Epileptology in Prague, *"Asymmetry in temporal lobe cortex organisation"*
+* **2016**	Presentation, 30th ČSNS, Prague, *Polio-like transverzální myelitida - případová studie*													
+* **2016**	Presentation, 63rd společný sjezd české a slovenské společnosti klinické neurofyziologie, Prague, *Využití high density eeg u pacientů s farmakorezistentní epilepsií jako součást předoperačního vyšetření*
+* **2015**	Poster, Scientific conference of 2nd faculty of medicine, **"Stranová asymetrie v uspořádání kůry temporálních laloků u zdravých osob"*  							
+* **2013**	Poster, Scientific conference of 2nd faculty of medicine, "*MR volumetry of amygdalae and hippocampi in healthy controls”*											
+* **2013**	Poster, 27th ČSNS, Prague, *"MR volumetry methodics in quantification of amygdala and hippocampus"*
+
+*****************
+
+<i class="fa fa-suitcase" aria-hidden="true" fa-3x></i> Internships
+----------
+* **5/2016 + 8/2017**	Internship in Hôpitaux universitaires de Genève, Functional Brain Mapping Laboratory, Geneva, contact person: prof. Margitta Seeck, Margitta.Seeck@hcuge.ch							
+* **10/2015 + 6/2016**	Internship in Division Neurosciences, Neurochirurgie, University Medical Center Utrecht, contact person: Geertjan Huiskamp, ghuiskam@xs4all.nl
+* **8/2012**	Clinical internship in department of clinical medicine, Ospedale San Martino, Genova, Italia, Genova, Italia, contact person: Prof. Giovanni Murialdo, Clinica di medicina interna 2, gmurialdo@unige.it
+
+*******************
+
+<i class="fa fa-code-fork" aria-hidden="true" fa-3x></i>  Other experience
+----------
+* **2016 - 2018**	Member of academic senate of Charles University
+* **2014 - 2017**	Member of academic senate of Second Faculty of Medicine, Charles University
+* **2014 - present**	Secretary of KISARG (Cognitive intracranial signal analysis research group)												
+* **2014 - present**	Coworking on epileptosugery database in Department of Paediatric Neurology, Motol University Hospital, Prague	
+* **2009 – současnost**	Active member of student association of 2nd faculty of medicine, 2010-2014 leader of film club
+* **9/2011**	Work on centralized development project Moodle, evaluation of quality of electronic materials on 2nd faculty of medicine
+* **1/2011**	Tutor on anatomical autopsy exercises for first year students of 2nd faculty of medicine
+
+********************
+
+<i class="fa fa-language" aria-hidden="true" fa-3x></i> Language skills
+----------
+Language  | Level |  Certificates
+------------- | ---------|--------------------- 
+English    | Active  |  FCE, CAE
+Czech      | Native  |
+														
+
+*****************
+
+<i class="fa fa-wrench" aria-hidden="true" fa-3x></i> Technical skills
+----------
+* Office applications:	MS office													
+* Web technologies:	PHP, SQL, CSS													
+* Neuroimaging:	Freesurfer, FSL, Image J												
+* Programming languagesy:	R project, Python, Matlab													
+* Software fpr ESI:	Curry 7, Cartool													
+* Other:	Inkscape, LaTeX, Scribus
+
+*****************
+
+<i class="fa fa-file-text-o" aria-hidden="true" fa-3x></i> Courses and certificates
+----------
+
+* **2016  6th Course on Epilepsy Surgery (EPODES) Advanced I**, Chair of the Programme Committee Prof. Dr. Kristina Malmgren, Organizer Prof. Dr. Ivan Rektor, Brno, Czech Republic
+* **2016	San Servolo international advanced course: Brain Exploration and Epilepsy Surgery**, 10th-22nd July 2016. Course directors: Ingmar Blümcke (Germany) and Laura Tassi (Italy). San Servolo (Venice), Italy	
+* **2014	Exploring Neural Data**, Monica Linden, PhD, David Sheinberg, PhD, Brown University; Coursera.org
+* **2014	R programming**, Brian Caffo, PhD, Roger D. Peng, PhD, Jeff Leek, PhD, Bloomberg School of Public Health, John Hopkins University; Coursera.org
+* **2013	Mathematical Biostatistics Bootcamp**, accomplished with distinction; Brian Caffo, PhD, MS;  Bloomberg School of Public Health, John Hopkins University; Coursera.org  
+* **2013	Computational Molecular Evolution**, Anders Gorm Pedersen, Professor, Ph.D., Center For Biological Sequence Analysis, Technical University Of Denmark, Coursera.org
+
+
+******************
+
+<i class="fa fa-coffee" aria-hidden="true"></i> Hobbies:
+----------
+Reading, rock climbing, running, programming, graphic design
+</div>
+</div>

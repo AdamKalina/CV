@@ -1,0 +1,161 @@
+---
+mainfont: Arial
+output:
+  pdf_document:
+    keep_tex: yes
+    latex_engine: xelatex
+    template: templates\template.latex
+  html_document:
+    css:
+    - screen.css
+    - font-awesome-4.7.0/css/font-awesome.min.css
+    - print.css
+  word_document: default
+---
+\noindent\fcolorbox{blue}{blue}{
+\columnsbegin[t][600pt]{4cm}
+\color{white}
+\subsection{Curriculum Vitae}
+
+\subsection{Adam Kalina}
+
+Datum narození:	3/3/1989\\
+
+\textbf{Adresa}\\
+Nad Šárkou 1325/71\\                      
+Praha 6\\                                
+160 00\\
+
+\textbf{Email}\\
+adam.kalina89@gmail.com\\
+
+\textbf{Telefon}\\
++420 607 600 285\\
+
+\textbf{Hlavní zájmy}\\
+epileptologie\\
+epileptochirurgie\\ 
+elektrofyziologie\\
+\columnsend
+}
+\columnsbegin[t]{0.6\textwidth}
+
+Vzdělání
+---------
+
+Dosažené vzdělání:	Magisterské
+
+* **2015 - současnost:** Doktorské studium - Neurovědy  
+2\. lékařská fakulta UK (Praha)  
+Téma: *Lokalizace funkčních oblastí u epileptochirurgických pacientů*
+
+* **2009 - 2015:** Magisterské studium - Všeobecné lékařství  
+2\. lékařská fakulta UK (Praha)
+
+* **2005 – 2009:** Středoškolské studium - Přírodní vědy  
+Gymnázium, Praha 6, Arabská 14  
+Maturita: Čeština, Angličtina, Biologie, Chemie, Matematika
+
+****************
+
+Pracovní zkušenosti
+----------
+
+* **8/2015 - současnost:**	Sekundární lékař  
+Neurologická klinika 2. LF UK a FN Motol	
+
+*******************
+
+Vědecká činnost
+----------
+
+* **2012 - současnost**  
+Neurologická klinika 2. LF UK a FN Motol
+
+***************
+
+Grantová činnost
+----------
+* Hlavní řešitel grantu GAUK 488217/2017 *"Porovnání lokalizace zdroje elektrického signálu ze skalpového a intrakraniálního EEG"*
+
+* Spoluřešitel grantu GAČR 17-28427A *"Význam funkční a strukturální reorganizace mozkových sítí v patogenezi kognitivního deficitu a epilepsie po cévní mozkové příhodě."* Hlavní řešitel doc. MUDr. Přemysl Jiruška Ph.D, Fyziologický ústav AV ČR, v.v.i.
+
+* Spoluřešitel grantu GAČR 16-07690S *"Dynamika kognitivních procesů při použití prostorových navigačních referenčních rámců"* Hlavní řešitel Mgr. Kamil Vlček Ph.D, Fyziologický ústav AV ČR, v.v.i.
+
+* Účast na grantu AZV 15-331115A *"Porucha hemato-encefalické bariéry jako časný biomarker postischemické epileptogeneze"* Hlavní řešitel Doc. MUDr. Jakub Otáhal, Ph.D, Fyziologický ústav AV ČR, v.v.i.
+
+* Spoluřešitel grantu GAUK 334911/2011 *"Korelace výsledků zobrazovacích metod a funkčních charakteristik epileptogenní zóny u pacientů s temporální epilepsií"* Hlavní řešitel MUDr. Lukáš Martinkovič, Neurologická klinika 2.LF UK a FN Motol
+
+****************
+
+Témata
+----------
+* **2017**	Prezentace, Motolský epileptochirurgický den, Praha, *Mapování zdroje epileptické aktivity pomocí high-density EEG*
+* **2016**	Poster, 12th European Congress on Epileptology in Prague, *"Asymmetry in temporal lobe cortex organisation"*
+* **2016**	Prezentace, 30. ČSNS, Praha, *Polio-like transverzální myelitida - případová studie*													
+* **2016**	Prezentace, 63. společný sjezd české a slovenské společnosti klinické neurofyziologie, Praha, *Využití high density eeg u pacientů s farmakorezistentní epilepsií jako součást předoperačního vyšetření*
+* **2015**	Poster, Vědecká konference 2. LF UK, **"Stranová asymetrie v uspořádání kůry temporálních laloků u zdravých osob"*  							
+* **2013**	Poster, Vědecká konference 2. LF UK, *"MR volumetrie amygdaly a hipokampu u zdravých osob"*											
+* **2013**	Poster, 27. ČSNS, Praha, *"Metodiky MR volumetrie při kvantifikaci amygdaly a hipokampu"*
+
+*****************
+
+Stáže
+----------
+* **5/2016 + 8/2017**	Vědecká stáž v laboratoři pro funkční mapování mozku, Hôpitaux universitaires de Genève, kontakt: prof. Margitta Seeck, Margitta.Seeck@hcuge.ch 							
+* **10/2015 + 6/2016**	Vědecká stáž na oddělení neurověd, University Medical Center Utrecht, kontakt: Geertjan Huiskamp, ghuiskam@xs4all.nl
+* **8/2012**	Klinická stáž na oddělení všeobecné interny Ospedale San Martino, Genova, Italia, kontakt: Prof. Giovanni Murialdo, Clinica di medicina interna 2, gmurialdo@unige.it
+
+*******************
+
+Ostatní
+----------
+* **2016 - 2018**	Člen AS 2. LF
+* **2014 - 2017**	Člen AS UK za 2. LF, člen studijní komise AS UK
+* **2014 - současnost**	Sekretář KISARGu – Cognitive intracranial signal analysis research group												
+* **2014 - současnost**	Spolupráce na tvorbě databáze epileptochirurgických pacientů na Klinice dětské neurologie 2. LF a FN Motol a na Neurologické klinice 2. LF a FN Motol	
+* **2009 – současnost**	Aktivní člen studentského spolku 2. LF UK, **2011 - 2014** vedoucí Filmového klub										
+* **9/2011**	Práce na centralizovaném rozvojovém projektu Moodle, hodnocení kvality příspěvků Mefanet 2. LF UK								
+* **1/2011**	Demonstrátor na anatomických pitevních cvičeních pro studenty prvního ročníku 2. LF UK											
+													
+
+********************
+
+Jazykové dovednosti
+----------
+Jazyk  | Úroveň ovládání |  Získané certifikáty
+------------- | ---------|--------------------- 
+Angličtina    | Aktivní  |  FCE, CAE
+														
+
+*****************
+
+Technické dovednosti
+----------
+* Kancelářské aplikace:	MS office													
+* Webové technologie:	PHP, SQL, CSS													
+* Neuroimaging:	Freesurfer, FSL, Image J												
+* Programovací jazyky:	R project, Python, Matlab													
+* Software pro ESI:	Curry 7, Cartool													
+* Další:	Inkscape, LaTeX, Scribus
+
+*****************
+
+Kurzy a certifikáty
+----------
+
+* **2016  6th Course on Epilepsy Surgery (EPODES) Advanced I**, Chair of the Programme Committee Prof. Dr. Kristina Malmgren, Organizer Prof. Dr. Ivan Rektor, Brno, Czech Republic
+* **2016	San Servolo international advanced course: Brain Exploration and Epilepsy Surgery**, 10th-22nd July 2016. Course directors: Ingmar Blümcke (Germany) and Laura Tassi (Italy). San Servolo (Venice), Italy	
+* **2014	Exploring Neural Data**, Monica Linden, PhD, David Sheinberg, PhD, Brown University; Coursera.org
+* **2014	R programming**, Brian Caffo, PhD, Roger D. Peng, PhD, Jeff Leek, PhD, Bloomberg School of Public Health, John Hopkins University; Coursera.org
+* **2013	Mathematical Biostatistics Bootcamp**, accomplished with distinction; Brian Caffo, PhD, MS;  Bloomberg School of Public Health, John Hopkins University; Coursera.org  
+* **2013	Computational Molecular Evolution**, Anders Gorm Pedersen, Professor, Ph.D., Center For Biological Sequence Analysis, Technical University Of Denmark, Coursera.org
+
+
+******************
+
+Záliby
+----------
+Čtení, lezení. běh, programování, grafický design
+\columnsend
+

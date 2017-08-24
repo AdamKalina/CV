@@ -1,0 +1,132 @@
+---
+output:
+  html_document:
+    css:
+    - screen.css
+    - font-awesome-4.7.0/css/font-awesome.min.css
+    - print.css
+  pdf_document: default
+---
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<div class="wrapper">
+<div class="column-left" id="motolkomix-cv">
+<div class="img-circle-div">
+<img class="img-circle" src="rect834.png">
+</div>
+Curriculum Vitae
+---------
+Adam Kalina
+---------
+###alias Donald
+
+
+<i class="fa fa-birthday-cake" aria-hidden="true" fa-3x></i> Datum narození:	3. března 1989
+
+<i class="fa fa-address-card" aria-hidden="true" fa-3x></i> **Adresa**  
+Nad Šárkou 1325/71                        
+Praha 6                                   
+160 00
+
+<i class="fa fa-home" aria-hidden="true" fa-3x></i> **Web**  
+[motolkomix.cz](http://www.motolkomix.cz)
+
+<i class="fa fa-facebook" aria-hidden="true" fa-3x></i> **Facebook**
+[facebook.com/ctetemotolkomix/](https://www.facebook.com/ctetemotolkomix/)
+
+<i class="fa fa-deviantart" aria-hidden="true" fa-3x></i> **DeviantArt**
+[motolkomix.deviantart.com/](https://motolkomix.deviantart.com/)
+
+<i class="fa fa-twitter" aria-hidden="true" fa-3x></i> **Twitter**  
+[twitter.com/Motolkomix](https://twitter.com/Motolkomix)
+
+<i class="fa fa-tumblr" aria-hidden="true" fa-3x></i> **Tumblr**  
+[motolkomix.tumblr.com/](https://motolkomix.tumblr.com/)
+
+<i class="fa fa-envelope" aria-hidden="true" fa-3x></i> **Email**  
+donald@motolkomix.cz
+adam.kalina89@gmail.com
+
+<i class="fa fa-phone" aria-hidden="true" fa-3x></i> **Telefon**  
++420 607 600 285
+
+<i class="fa fa-tag" aria-hidden="true" fa-3x></i> **Hlavní zájmy**  
+medicína  
+vektorová grafika  
+komiks
+
+</div>
+<div class="column-right">
+<i class="fa fa-book" aria-hidden="true"></i> Vzdělání
+---------
+
+Dosažené vzdělání:	Magisterské
+
+* **2015 - současnost:** Doktorské studium - Neurovědy  
+2\. lékařská fakulta UK (Praha)  
+Téma: *Lokalizace funkčních oblastí u epileptochirurgických pacientů*
+
+* **2009 - 2015:** Magisterské studium - Všeobecné lékařství  
+2\. lékařská fakulta UK (Praha)
+
+* **2005 – 2009:** Středoškolské studium - Přírodní vědy  
+Gymnázium, Praha 6, Arabská 14  
+Maturita: Čeština, Angličtina, Biologie, Chemie, Matematika
+
+****************
+
+<i class="fa fa-user-md" aria-hidden="true" fa-3x></i> Pracovní zkušenosti
+----------
+
+* **8/2015 - současnost:**	Sekundární lékař  
+Neurologické klinice 2. LF UK a FN Motol	
+
+*******************
+
+<i class="fa fa-university" aria-hidden="true" fa-3x></i> Vědecká činnost
+----------
+
+* **2012 - současnost**  
+Neurologické klinice 2.LF UK a FN Motol
+
+*****************
+
+<i class="fa fa-code-fork" aria-hidden="true" fa-3x></i>  Ostatní
+----------
+* **2016 - 2018**	Člen AS 2. LF
+* **2014 - 2017**	Člen AS UK za 2. LF, člen studijní komise AS UK
+* **2014 - současnost**	Sekretář KISARGu – Cognitive intracranial signal analysis research group												
+* **2014 - současnost**	Spolupráce na tvorbě databáze epileptochirurgických pacientů na Klinice dětské neurologie 2. LF a FN Motol a na Neurologické klinice 2. LF a FN Motol	
+* **2009 – současnost**	Aktivní člen studentského spolku 2. LF UK, **2011 - 2014** vedoucí Filmového klub										
+* **9/2011**	Práce na centralizovaném rozvojovém projektu Moodle, hodnocení kvality příspěvků Mefanet 2. LF UK								
+* **1/2011**	Demonstrátor na anatomických pitevních cvičeních pro studenty prvního ročníku 2. LF UK											
+													
+
+********************
+
+<i class="fa fa-language" aria-hidden="true" fa-3x></i> Jazykové dovednosti
+----------
+Jazyk  | Úroveň ovládání |  Získané certifikáty
+------------- | ---------|--------------------- 
+Angličtina    | Aktivní  |  FCE, CAE
+														
+
+*****************
+
+<i class="fa fa-wrench" aria-hidden="true" fa-3x></i> Technické dovednosti
+----------
+* Kancelářské aplikace:	MS office													
+* Webové technologie:	PHP, SQL, CSS													
+* Neuroimaging:	Freesurfer, FSL, Image J												
+* Programovací jazyky:	R project, Python, Matlab													
+* Software pro ESI:	Curry 7, Cartool													
+* Další:	Inkscape, LaTeX, Scribus
+
+*****************
+
+<i class="fa fa-coffee" aria-hidden="true"></i> Záliby
+----------
+Čtení, lezení. běh, programování, grafický design
+</div>
+</div>
