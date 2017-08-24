@@ -19,7 +19,11 @@ Curriculum Vitae
 ---------
 Adam Kalina
 ---------
-###alias Donald
+###alias Donald - the most daring adventurer off all times
+Is this showing right?
+
+
+I dont think so
 
 
 <i class="fa fa-birthday-cake" aria-hidden="true" fa-3x></i> Datum narození:	3. března 1989
